@@ -1,0 +1,1 @@
+Studierea bazei de date SQL
