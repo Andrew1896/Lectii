@@ -1,1 +1,2 @@
 Studierea bazei de date SQL
+Insusirea comenzilor SELECT, INSERT, UPDATE, GROUP BY, JOIN ON, HAVING, WHERE
