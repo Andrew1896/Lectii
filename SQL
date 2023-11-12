@@ -1,2 +1,4 @@
 Studierea bazei de date SQL
-Insusirea comenzilor SELECT, INSERT, UPDATE, GROUP BY, JOIN ON, HAVING, WHERE
+Descarcarea si instalarea Oracle SQL
+Studierea comenzilor SELECT, INSERT, UPDATE, DELETE
+Informatii generale despre HR
