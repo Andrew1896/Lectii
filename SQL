@@ -1,0 +1,6 @@
+Studierea bazei de date SQL
+Descarcarea si instalarea Oracle SQL
+Studierea comenzilor SELECT, INSERT, UPDATE, DELETE
+Informatii generale despre HR
+Semnificatia NULL
+Comanda DESCRIBE
