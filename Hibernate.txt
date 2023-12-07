@@ -1,0 +1,7 @@
+Inceperea cursului Hibernete:
+Tehnologia ORM; 
+Java application save;
+Java application get;
+Operatiile CRUD.
+
+
